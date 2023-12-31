@@ -2,8 +2,8 @@
 credentials:
   usernames:
     kalim:
-      email: kalim@gmail.com
-      name: Kalim Amzad
+      email: anirbandattadurjoy18@gmail.com
+      name: Anirban Datta
       password: $2b$12$Vya.5Gw0ur0pDxsjt22/suzsNMS/xXYti30GXZZFQ62nUWwmcLJFm # Placeholder for hashed password of 'abc'
 
 cookie:
@@ -25,5 +25,5 @@ db:
 
   
 email_sender:
-  email: "kalim.resource@gmail.com"
-  pass: '@&&@+7'
+  email: "anirbandattadurjoy18@gmail.com"
+  pass: 'abcd@'
