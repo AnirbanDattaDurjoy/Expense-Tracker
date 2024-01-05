@@ -1,7 +1,7 @@
 # authendication credintials
 credentials:
   usernames:
-    kalim:
+    anirban:
       email: anirbandattadurjoy18@gmail.com
       name: Anirban Datta
       password: $2b$12$Vya.5Gw0ur0pDxsjt22/suzsNMS/xXYti30GXZZFQ62nUWwmcLJFm # Placeholder for hashed password of 'abc'
